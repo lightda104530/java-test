@@ -6,7 +6,7 @@ package tw.tsr.lightda104530;
 public class Main {
 
     public static void main(String[] args) {
-        Console.writeLine("Hello World!! I'm lightda!!!");
+        tw.tsr.lightda104530.utils.Console.writeLine("Hello World!! I'm lightda!!!");
     }
    
 }
